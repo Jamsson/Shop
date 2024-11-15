@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "JmPzhZz+Eih5TWGG8h2Qew+icBo25cHFXj6XI/vAsp0=",
+  "Source": "ShopWebApp",
+  "BasePath": "_content/ShopWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ShopWebApp/wwwroot",
+      "Source": "ShopWebApp",
+      "ContentRoot": "/home/jamsson/Downloads/AspShop-master/wwwroot/",
+      "BasePath": "_content/ShopWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/jamsson/Downloads/AspShop-master/wwwroot/css/style.css",
+      "SourceId": "ShopWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jamsson/Downloads/AspShop-master/wwwroot/",
+      "BasePath": "_content/ShopWebApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    },
+    {
+      "Identity": "/home/jamsson/Downloads/AspShop-master/wwwroot/js/javascript.js",
+      "SourceId": "ShopWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jamsson/Downloads/AspShop-master/wwwroot/",
+      "BasePath": "_content/ShopWebApp",
+      "RelativePath": "js/javascript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/javascript.js"
+    }
+  ]
+}
